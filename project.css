@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    text-align: center;
+    background-color: bisque;
+    font-size: 32px;
+    margin-bottom: 10px; */
+}
+nav{
+    text-align: center;
+    background-color: aquamarine;
+      margin-bottom: 10px; */
+     font-size: 24px; 
+}
+img{
+    border-radius: 50%;
+    height: 18vh;
+    width: auto;
+}
+.cs{
+   margin-left: 200px; */
+   background-color: rgb(226, 203, 194);
+    margin-inline-start: 30px;
+   
+}
+.gg{
+    text-align: center;
+    display: inline-block;
+ margin-inline: 30px;
+    
+}
+.fifth{
+    text-align: center;
+    background-color: burlywood;
+    margin-bottom: 10px;
+}
+.one{
+    background-color: aqua;
+    text-align: center;
+    display: inline-block;
+    padding: 10px 65px 10px 65px;
+    margin-bottom: 10px;
+}
+.two{
+background-color: aqua;
+    text-align: center;
+    display: inline-block;
+    padding: 10px 65px 10px 65px;
+}
+.three{
+    background-color: aqua;
+    text-align: center;
+    display: inline-block;
+    padding: 10px 65px 10px 65px;
+}
+.project{
+    font-size: 18px;
+    padding: 14px;
+}
+.gowin{
+    padding: 0px 80px 0px 80px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: antiquewhite;
+}
+footer{
+    text-align: center;
+    background-color: rgb(219, 168, 93);
+    margin-bottom: 10px];
+}
+.kk{
+    text-align: center;
+    box-sizing: 20px solid;
+
+}
